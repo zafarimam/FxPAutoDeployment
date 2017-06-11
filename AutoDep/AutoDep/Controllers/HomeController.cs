@@ -26,5 +26,10 @@ namespace AutoDep.Controllers
 
             return View();
         }
+
+        public ActionResult Fxp()
+        {
+            return View();
+        }
     }
 }
